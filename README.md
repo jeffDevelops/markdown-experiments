@@ -37,7 +37,7 @@ Task Lists? **Nope!** Don't have to support those either!
 
 - [X] A regular ol' task
 - [ ] ## A task with a heading
-## - [ ] Another task with the heading hashes at the beginning
+## - [ ] Another task with the heading hashes at the beginning, just a heading at the end of the day again, thank jeebus
 
 What happens if you start escaping hashes? (You have to look at the source md for this)
 \#\### Hello world...? They just become hashes.
@@ -48,8 +48,13 @@ How about some code snippets with headings?
 ## `hello world`
 
 ```
-## hello world again
+## hello world again (nope)
 ```
+## ```
+code block with hashes in front (yeesh)
+```
+
+
 
 
 
