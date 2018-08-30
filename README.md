@@ -50,9 +50,17 @@ How about some code snippets with headings?
 ```
 ## hello world again (nope)
 ```
-## ```
-code block with hashes in front (yeesh)
-```
+As an aside (it's not demonstratable, because the md will interpret as an unterminated code block), if you put hashes before three backticks, it's just a heading of three backticks.
+
+While we're talking about headings, before one, you might like that you can put a horizontal rule before one with 3 asterisks, hyphens, or underscores.
+
+***
+# Here's a new section
+Yayyyyyyyyyyyyyyy sections!!!!!
+___
+### And another one
+Yay second section!
+---
 
 
 
