@@ -1,4 +1,4 @@
-# Markdown Experiments
+# Markdown Deep Dive
 ## Headings
 
 Can you have emphasis within a title?
@@ -25,5 +25,13 @@ How about blockquotes with headings?
 
 >### The quick brown fox jumped
 > ### over the lazy dog.
+
+How about them there tables? Do headings work in those?
+
+| # A table with an H1 heading here | ## And an H2 heading here |
+|-----------------------------------|---------------------------|
+| ### And an H3 here | #### And an H4 here |
+
+
 
 
