@@ -11,12 +11,16 @@ Can you have links inside headings?
 
 Can you make lists with headings?
 
-- ## A hyphen, and then hashes for a heading work well
+- ## A hyphen, and then hashes for a heading work, but don't look great
 ## - The other way around does not
 
 So, I imagine
 
-1. ## An ordered list would work the same way
-## 2. Right?
+1. ## An ordered list works the same way, but looks even more not-great
+## 2. And this is a heading at the end of the day.
+
+How about blockquotes with headings?
+> ## The quick, brown fox
+> ## Jumped over the lazy dog.
 
 
