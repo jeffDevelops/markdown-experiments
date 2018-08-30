@@ -39,9 +39,17 @@ Task Lists? **Nope!** Don't have to support those either!
 - [ ] ## A task with a heading
 - [ ] Another regular ol'
 
-What happens if you start escaping hashes?
+What happens if you start escaping hashes? (You have to look at the source md for this)
 \#\### Hello world...? They just become hashes.
 \# ## Yep. Just hashes.
+
+How about some code snippets with headings?
+
+## `hello world`
+
+```
+## hello world again
+```
 
 
 
