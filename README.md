@@ -37,7 +37,7 @@ Task Lists? **Nope!** Don't have to support those either!
 
 - [X] A regular ol' task
 - [ ] ## A task with a heading
-- [ ] Another regular ol'
+## - [ ] Another task with the heading hashes at the beginning
 
 What happens if you start escaping hashes? (You have to look at the source md for this)
 \#\### Hello world...? They just become hashes.
