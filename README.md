@@ -20,7 +20,10 @@ So, I imagine
 ## 2. And this is a heading at the end of the day.
 
 How about blockquotes with headings?
-> ## The quick, brown fox
-> ## Jumped over the lazy dog.
+> ## They're silly with H1s and H2s because they have the underlines,
+> ## But H6 - H3 look semi decent.
+
+>### The quick brown fox jumped
+> ### over the lazy dog.
 
 
