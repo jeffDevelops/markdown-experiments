@@ -26,11 +26,19 @@ How about blockquotes with headings?
 >### The quick brown fox jumped
 > ### over the lazy dog.
 
-How about them there tables? Do headings work in those?
+How about them there tables? Do headings work in those? *They sure don't, and I'm not complaining, bc supporting that would be a nightmare.
 
 | # A table with an H1 heading here | ## And an H2 heading here |
 |-----------------------------------|---------------------------|
 | ### And an H3 here | #### And an H4 here |
+
+
+Task Lists?
+
+- [X] A regular ol' task
+- [ ] ## A task with a heading
+- [ ] Another regular ol'
+
 
 
 
