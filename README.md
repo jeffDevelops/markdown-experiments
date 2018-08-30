@@ -58,8 +58,12 @@ While we're talking about headings, before one, you might like that you can put 
 # Here's a new section
 Yayyyyyyyyyyyyyyy sections!!!!!
 ___
-### And another one
-Yay second section!
+
+Future support (not prioritized): Alt-headings
+An alternate way of writing an H1 (at least 3 equal signs below this line--there are no hashes on this line!)
+===
+
+And alternate way of writing an H2 (at least 3 hyphens below this line--once again, there are no hashes on this one!)
 ---
 
 
