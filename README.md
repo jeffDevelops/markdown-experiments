@@ -12,7 +12,7 @@ Can you have links inside headings?
 Can you make lists with headings?
 
 - ## A hyphen, and then hashes for a heading work, but don't look great
-## - The other way around does not
+## - The other way around does not, and would be supported under the regular heading RegEx
 
 So, I imagine
 
@@ -33,11 +33,15 @@ How about them there tables? Do headings work in those? *They sure don't, and I'
 | ### And an H3 here | #### And an H4 here |
 
 
-Task Lists?
+Task Lists? **Nope!** Don't have to support those either!
 
 - [X] A regular ol' task
 - [ ] ## A task with a heading
 - [ ] Another regular ol'
+
+What happens if you start escaping hashes?
+\#\### Hello world...? They just become hashes.
+\# ## Yep. Just hashes.
 
 
 
