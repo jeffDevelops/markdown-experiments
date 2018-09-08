@@ -81,7 +81,7 @@ Italics?*
 
 ***Three Asterisks***
 
-***Full *ham* * never not bold *hi** ermahgerd whyyyyyyy* oh my god
+***Full *ham*** never not bold *hi** ermahgerd whyyyyyyy* oh my god
 
 
 
