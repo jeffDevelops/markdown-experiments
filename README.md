@@ -83,3 +83,11 @@ Italics?*
 ***Three Asterisks***
 
 ***Full *ham*** never not bold oh okay*hi** ermahgerd whyyyyyyy* oh my god
+
+Backticks with some JS interpolation...?
+
+`console.log(`hello${world`});`
+
+```
+console.log(`hello${world}`);
+```
