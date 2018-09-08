@@ -28,16 +28,17 @@ How about blockquotes with headings?
 
 How about them there tables? Do headings work in those? *They sure don't, and I'm not complaining, bc supporting that would be a nightmare.
 
-| # A table with an H1 heading here | ## And an H2 heading here |
+|  A table with an H1 heading here | And an H2 heading here |
 |-----------------------------------|---------------------------|
-| ### And an H3 here | #### And an H4 here |
+|  And an H3 here | And an H4 here |
+|  And an H3 here | And an H4 here |
 
 
 Task Lists? **Nope!** Don't have to support those either!
 
 - [X] A regular ol' task
 - [ ] ## A task with a heading
-## - [ ] Another task with the heading hashes at the beginning, just a heading at the end of the day again, thank jeebus
+- [ ] Another task with the heading hashes at the beginning, just a heading at the end of the day again, thank jeebus
 
 What happens if you start escaping hashes? (You have to look at the source md for this)
 \#\### Hello world...? They just become hashes.
@@ -82,8 +83,3 @@ Italics?*
 ***Three Asterisks***
 
 ***Full *ham*** never not bold oh okay*hi** ermahgerd whyyyyyyy* oh my god
-
-
-
-
-
