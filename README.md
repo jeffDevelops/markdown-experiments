@@ -87,6 +87,9 @@ Italics?*
 Backticks with some JS interpolation...?
 
 `console.log(`hello${world`});`
+`Single backticks
+with newlines...
+I wonder if it's supported?`
 
 ```
 console.log(`hello${world}`);
