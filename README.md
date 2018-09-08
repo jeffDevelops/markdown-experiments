@@ -66,6 +66,18 @@ An alternate way of writing an H1 (at least 3 equal signs below this line--there
 And alternate way of writing an H2 (at least 3 hyphens below this line--once again, there are no hashes on this one!)
 ---
 
+**
+Can
+You
+Have
+Multiline
+Bold?
+**
+*
+And
+Italics?
+*
+
 
 
 
