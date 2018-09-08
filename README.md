@@ -79,6 +79,8 @@ Italics?*
 
 ** As long as the asterisks are *immediately* followed by a * non-whitespace * character **
 
+***Three Asterisks***
+
 
 
 
